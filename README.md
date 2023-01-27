@@ -2,6 +2,8 @@ TypeScript wallet adapter and components for Arweave Permaweb applications.
 
 This project includes a full working example of a react application wrapped in an arweave wallet provider. In order to implement this provider into your own application, clone this repository and move the WalletProvider module into your application, then wrap your <App /> component with the WalletProvider.
 
+ArConnect is currently the only supported wallet.
+
 `index.tsx` Example
 
 ```
